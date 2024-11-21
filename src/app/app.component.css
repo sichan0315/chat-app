@@ -1,0 +1,47 @@
+.heading {
+    background-color: azure;
+}
+
+.heading label {
+    font-size: 1.1em;
+}
+
+.heading input {
+    width: 150px;
+}
+
+input[type="color"] {
+    cursor: pointer;
+}
+
+label{
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.message {
+    margin-left: 15px;
+    margin-bottom: 3px;
+}
+
+.timestamp {
+    font-size: 0.7em;
+    margin-right: 15px;
+    color: gray;
+}
+
+.user-name {
+    border: solid black;
+    border-width: 0.7px;
+    border-radius: 3px;
+    border-color: inherit;
+    padding: 0.5px;
+}
+
+.msg-enter{
+    font-size: 1.1em;
+}
+
+.msg-enter input {
+    width: 350px;
+}
